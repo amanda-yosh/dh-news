@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif;
+    width: 900px;
+    margin: 0 auto;
+}
+
+h1 {
+    color: red;
+}
+
+#redes_sociais {
+    text-align: center;
+}
+
+#redes_sociais img {
+    width: 50px;
+}
